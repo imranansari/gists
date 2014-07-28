@@ -1,4 +1,4 @@
-= Network Dependency Graph
+= LFG Network Dependency Graph
 :neo4j-version: 2.0.0-RC1
 :author: Imran Ansari
 :twitter: @iansari
